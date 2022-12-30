@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rohitstwts" target="blank"><img src="https://img.shields.io/twitter/follow/rohits9804?logo=twitter&style=for-the-badge" alt="rohits9804" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rohitstwts" target="blank"><img src="https://img.shields.io/twitter/follow/rohitstwts?logo=twitter&style=for-the-badge" alt="rohitstwts" /></a> </p>
 
 - 🌱 I’m currently learning **DSA,HTML,CSS**
 
