@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rohitstwts" target="blank"><img src="https://img.shields.io/twitter/follow/rohitstwts?logo=twitter&style=for-the-badge" alt="rohitstwts" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,HTML,CSS**
+- 🌱 I’m currently learning **Data structures and algorithms and javascript**
 
-- 💬 Ask me about **java,video editing,python**
+- 💬 Ask me about **java, video editing, python, HTML, CSS**
 
 - 📫 How to reach me **rohit9804singh@gmail.com**
 
